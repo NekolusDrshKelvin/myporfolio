@@ -10,7 +10,7 @@ export default function Header() {
           className="text-2xl font-bold text-teal-400 hover:text-teal-300 transition-colors"
           prefetch={false}
         >
-          NekolusDrshKelvin
+          NekolusDrshKelvin(Mr.Kaung)
         </Link>
         <div className="space-x-4 hidden md:flex">
           <Link href="#about" className="text-lg hover:text-teal-400 transition-colors" prefetch={false}>
