@@ -10,7 +10,7 @@ export default function Footer() {
         </p>
         <div className="flex space-x-6">
           <Link
-            href="https://github.com/yourusername"
+            href="https://github.com/NekolusDrshKelvin"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub"
@@ -19,7 +19,7 @@ export default function Footer() {
             <Github className="h-6 w-6" />
           </Link>
           <Link
-            href="https://linkedin.com/in/yourusername"
+            href="https://www.linkedin.com/in/nekolus-drsh-kelvin-48b215383?trk=contact-info"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="LinkedIn"
@@ -27,17 +27,9 @@ export default function Footer() {
           >
             <Linkedin className="h-6 w-6" />
           </Link>
+          
           <Link
-            href="https://twitter.com/yourusername"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="Twitter"
-            className="hover:text-teal-400 transition-colors"
-          >
-            <Twitter className="h-6 w-6" />
-          </Link>
-          <Link
-            href="mailto:your.email@example.com"
+            href="mailto:ksett2024@gmail.com"
             aria-label="Email"
             className="hover:text-teal-400 transition-colors"
           >
