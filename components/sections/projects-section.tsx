@@ -6,7 +6,7 @@ const projects = [
     description:
       "A full-stack e-commerce application with user authentication, product catalog, shopping cart, and payment integration.",
     imageUrl: "/images/ecommerce.png", // Updated image URL
-    githubUrl: "https://github.com/yourusername/ecommerce-platform",
+    githubUrl: "https://github.com/NekolusDrshKelvin",
     liveUrl: "#",
     tags: ["Next.js", "Node.js", "Express", "MongoDB", "Stripe"],
   },
@@ -15,7 +15,7 @@ const projects = [
     description:
       "A responsive task management tool with drag-and-drop functionality, real-time updates, and user collaboration features.",
     imageUrl: "/images/task-management.png", // Updated image URL
-    githubUrl: "https://github.com/yourusername/task-app",
+    githubUrl: "https://github.com/NekolusDrshKelvin",
     liveUrl: "#",
     tags: ["React", "Firebase", "Tailwind CSS", "WebSockets"],
   },
@@ -24,7 +24,7 @@ const projects = [
     description:
       "A minimalist blog platform built for sharing articles and insights, featuring markdown support and SEO optimization.",
     imageUrl: "/images/personal-blog.png", // Updated image URL
-    githubUrl: "https://github.com/yourusername/personal-blog",
+    githubUrl: "https://github.com/NekolusDrshKelvin",
     liveUrl: "#",
     tags: ["Next.js", "MDX", "GraphQL", "PostgreSQL"],
   },
@@ -33,7 +33,7 @@ const projects = [
     description:
       "An application demonstrating integration with a large language model for interactive conversational AI.",
     imageUrl: "/images/ai-chatbot.png", // Updated image URL
-    githubUrl: "https://github.com/yourusername/ai-chatbot",
+    githubUrl: "https://github.com/NekolusDrshKelvin",
     liveUrl: "#",
     tags: ["Next.js", "AI SDK", "OpenAI", "TypeScript"],
   },
